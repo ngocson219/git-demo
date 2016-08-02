@@ -1,4 +1,3 @@
 # git-demo
-
-## second commit
+## Second commit
 sontn
